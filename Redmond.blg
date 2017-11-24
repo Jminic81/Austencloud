@@ -1,0 +1,11 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Redmond.aux
+The style file: apa.bst
+Database file #1: article.bib
+I was expecting a `,' or a `}'---line 2 of file article.bib
+ : author={Julia Silge and David Robinson}
+ :                                        .
+I'm skipping whatever remains of this entry
+Warning--empty year in Silge
+Warning--empty title in Silge
+Warning--empty publisher in Silge
+(There was 1 error message)
